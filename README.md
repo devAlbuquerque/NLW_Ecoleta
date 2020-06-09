@@ -1,10 +1,10 @@
-#Ecoleta
+# Ecoleta
 
 Aplicação com o intúito de realizar o cadastramento de pontos de coleta de resíduos orgânicos e inorgânicos, para que pessoas possam descartar seus resíduos de forma ecológica.
 
 ![Ecoleta](./assets/ecoleta.jpg)
 
-###Tecnologias utilizadas
+### Tecnologias utilizadas
 
 O *back-end* foi desenvolvido com **Node Js + Express**, o *front-end* com **React Js** e o *mobile* com **React Native**. Em todo esse ambiente foram utilizados:
 
@@ -19,7 +19,7 @@ O *back-end* foi desenvolvido com **Node Js + Express**, o *front-end* com **Rea
 - Leaflet
 - Multer 
 
-###Iniciando o sistema em ambiente de desenvolvimento
+### Iniciando o sistema em ambiente de desenvolvimento
 
 1. Clone o repositório
 ```https://github.com/devAlbuquerque/NLW_Ecoleta.git```
